@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Bakainkorp
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: Student in CSci 395.86 in Hunter College, Fall 2019
+description: Student in CSCI 39586 in Hunter College, Fall 2019
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -24,7 +24,7 @@ avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rbautista9962@gmail.com
   facebook:
   flickr:
   github:    hunter-college-ossd-fall-2019
