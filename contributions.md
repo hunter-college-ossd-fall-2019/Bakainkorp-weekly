@@ -49,4 +49,4 @@ Replace the first row below with your contribution.
 |  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the awards/recognition section of the article for Rakuen. |
 |  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the reception section of the article for Ittle Dew 2. |
 |  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the reception section of the article for Plague Inc: Evolved. |
-
+|  14   | [Weblate (Godot)](https://hosted.weblate.org/projects/godot-engine/godot/) and [my contributions](https://hosted.weblate.org/user/Bakainkorp/)   | Translations  |  I provided translations for eight words in Tagalog for Godot's Weblate page. |
