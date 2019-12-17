@@ -44,9 +44,9 @@ Replace the first row below with your contribution.
 |  10  | [Godot](https://github.com/godotengine/godot) and [my contribution](https://github.com/godotengine/godot/issues/33800) | Issue Addressing | I provided assistance to a given issue.|
 |  11   | [Weblate (Godot)](https://hosted.weblate.org/projects/godot-engine/godot/) and [my contributions](https://hosted.weblate.org/user/Bakainkorp/)   | Translations  |  I provided translations for twenty words in Tagalog for Godot's Weblate page.  |
 |  14   | [Weblate (Godot)](https://hosted.weblate.org/projects/godot-engine/godot/) and [my contributions](https://hosted.weblate.org/user/Bakainkorp/)   | Translations  |  I provided translations for three words in Tagalog for Godot's Weblate page. |
-|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editting | I edited the plot section of the article for Celeste. |
-|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editting | I edited the reception section of the article for Rakuen. |
-|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editting | I edited the awards/recognition section of the article for Rakuen. |
-|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editting | I edited the reception section of the article for Ittle Dew 2. |
-|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editting | I edited the reception section of the article for Plague Inc: Evolved. |
+|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the plot section of the article for Celeste. |
+|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the reception section of the article for Rakuen. |
+|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the awards/recognition section of the article for Rakuen. |
+|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the reception section of the article for Ittle Dew 2. |
+|  14   | [Wikipedia](https://www.wikipedia.org) and [my contributions](https://en.wikipedia.org/wiki/Special:Contributions/Bakainkorp)| Editing | I edited the reception section of the article for Plague Inc: Evolved. |
 
